@@ -55,3 +55,5 @@ Install project with npm
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/tTftydXY/Screenshot-2022-08-17-at-18-15-53.png)
+
+![App Screenshot](https://i.postimg.cc/02xRq7rt/Screenshot-2022-08-17-at-18-23-37.png)
